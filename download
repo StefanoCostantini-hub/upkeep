@@ -1,0 +1,12 @@
+# Live maintenance data written by server.js — this is the team's real
+# task/log data, not code. Never commit it.
+data.json
+data.json.tmp
+
+# Node
+node_modules/
+
+# OS/editor cruft
+.DS_Store
+Thumbs.db
+*.swp

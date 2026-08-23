@@ -1,0 +1,9 @@
+{
+  "name": "upkeep-maintenance-tracker",
+  "version": "1.0.0",
+  "description": "Shared commercial building maintenance scheduler and log",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
